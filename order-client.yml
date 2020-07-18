@@ -1,2 +1,2 @@
 redis:
-  password: 121212
+  password: {cipher}121212
